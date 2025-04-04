@@ -1,4 +1,4 @@
-const recipes = {
+export const recipes = {
 
   gain: [
     {
@@ -1872,5 +1872,3 @@ const recipes = {
 };
 
 
-console.log( "perda:",recipes.lose.length)
-console.log( "ganho",recipes.gain.length)
